@@ -18,18 +18,23 @@ https://patty-rose.github.io/TITLEHERE
 * _Babel_
 * _Webpack_
 
-
 ## Description
 
 _description_
 
 ## Setup/Installation Requirements
 
-* View at Github pages site: https://patty-rose.github.io/TITLEHERE or follow next steps
-* Clone this repository to your desktop
-* navigate to the directory in your terminal
-* install with npm: $npm install
-* build: $npm run build
+1. Clone this repository to your desktop
+2. navigate to the directory in your terminal
+3. install with npm: $npm install
+4. build: $npm run build
+5. Create an API key: 
+    1. navigate to website: WEBSITE FOR API KEY HERE
+    2. create an account and follow this link to create an API key: LINK HERE
+    3. create a file in your root directory called .env
+    4. add .env to .gitignore list
+    5. list API key in your .env as 
+        API_KEY:(your API key here w/o parens)
 * open terminal in your browser with: $npm run start
 * to test: $npm test
 
