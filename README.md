@@ -35,8 +35,8 @@ _description_
     4. add .env to .gitignore list
     5. list API key in your .env as 
         API_KEY:(your API key here w/o parens)
-* open terminal in your browser with: $npm run start
-* to test: $npm test
+6. open terminal in your browser with: $npm run start
+7. to test: $npm test
 
 ## Known Bugs
 
